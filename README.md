@@ -68,5 +68,5 @@ Please contact me via email at alexandru.c@qpg.ro <br>
 [discord-shield]: https://img.shields.io/discord/287260416416022529?label=DISCORD&style=for-the-badge
 [discord-url]: https://discord.com/invite/super
 [website-shield]: https://img.shields.io/badge/WEBSITE-grey?style=for-the-badge
-[website-url]: https://pigu.ro/
+[website-url]: https://crekto.com/
 [website-status]: https://img.shields.io/badge/STATUS-OFFLINE-red?style=for-the-badge
