@@ -1,2 +1,2 @@
-# crekto
+# Crekto
 Backup CrektoBOT Repository
