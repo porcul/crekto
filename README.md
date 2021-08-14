@@ -65,7 +65,7 @@ Please contact me via email at alexandru.c@qpg.ro <br>
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/coserea-alexandru
-[discord-shield]: https://img.shields.io/discord/287260416416022529?label=DISCORD&style=for-the-badge
+[discord-shield]: https://img.shields.io/discord/438065696002277386?label=DISCORD&style=for-the-badge
 [discord-url]: https://discord.com/invite/super
 [website-shield]: https://img.shields.io/badge/WEBSITE-grey?style=for-the-badge
 [website-url]: https://crekto.com/
