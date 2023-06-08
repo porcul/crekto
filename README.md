@@ -58,7 +58,7 @@ You can find a list of Crekto's commands and their usage <a href="https://www.cr
 
 <!-- CONTACT -->
 ## Contact
-Please contact me via email at alexandru@wubi.co
+Please contact me via email at alexandru[at]wubi.co
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
